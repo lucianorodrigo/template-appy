@@ -1,0 +1,25 @@
+{
+  "name": "template-appy",
+  "version": "1.0.0",
+  "description": "Just another template pratice",
+  "source": "./src/index.js",
+  "scripts": {
+    "dev": "parcel ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucianorodrigo/template-appy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.5.0",
+    "parcel": "^2.6.0"
+  },
+  "bugs": {
+    "url": "https://github.com/lucianorodrigo/template-appy/issues"
+  },
+  "homepage": "https://github.com/lucianorodrigo/template-appy#readme",
+  "main": "index.js"
+}
